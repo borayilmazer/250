@@ -111,6 +111,3 @@ delete_parking_lot 50
 ## Author
 Developed as part of **CMPE 250: Data Structures and Algorithms** coursework.
 
-## License
-This project is for educational purposes and follows university guidelines on plagiarism and academic integrity.
-
